@@ -4,7 +4,9 @@ This open source library uses the **Azure Blob Service** from **Microsoft Dynami
 
 See also here: [**Blob Service REST API**](https://docs.microsoft.com/en-us/rest/api/storageservices/blob-service-rest-api)
 
-***Disclaimer:*** ...please keep in mind, this example does not cover every aspects and **is provided "AS IS"**. Feel free to improve, contribute, use this example as an inspiration or contact me, if you have some ideas ;)
+![BlobService API](./Docs/blobservice-api.png)
+
+***Disclaimer:*** ...please keep in mind, this example does not cover every aspects and **is provided "AS IS"**. Feel free to improve, contribute, use this API as an inspiration or contact me, if you have some ideas ;)
 
 ## Authentication
 
