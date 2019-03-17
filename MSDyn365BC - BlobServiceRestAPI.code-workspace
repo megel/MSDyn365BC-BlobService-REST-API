@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "App"
+		},
+		{
+			"path": "Simulation"
+		},
+		{
+			"path": "Docs"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"CRS.DisableDefaultAlSnippets": true,
+		"CRS.ObjectNamePrefix": "MME",
+		"CRS.OnSaveAlFileAction": "Reorganize",
+		"CRS.RemovePrefixFromFilename": true,
+	}
+}

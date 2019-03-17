@@ -1,0 +1,25 @@
+{
+  "id": "786cc8ad-7e85-4458-8363-5cfb5ba4d9dc",
+  "name": "BlobService-REST-API",
+  "publisher": "Michael Megel",
+  "version": "1.0.0.0",
+  "brief": "Open source library to access Azure Blob Service containers and blobs from Microsoft Dynamics 365 Business Central.",
+  "description": "This open source library uses the Azure Blob Service from Microsoft Dynamics 365 Business Central to access your storage account, containers and blobs.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "features": ["TranslationFile"],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": 
+  {
+    "from": 50100,
+    "to": 50149
+  },
+  "showMyCode": true,
+  "runtime": "2.3"
+}

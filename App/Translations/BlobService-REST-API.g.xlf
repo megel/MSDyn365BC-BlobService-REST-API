@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="BlobService-REST-API">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3006881282 - Field 2588032914 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME BlobStorage Account - Field Account Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3006881282 - Field 3389561398 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Url</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME BlobStorage Account - Field Account Url - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3006881282 - Field 2824322302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SaS Token</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME BlobStorage Account - Field SaS Token - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2959793436 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME BlobStorage Container - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2959793436 - Field 984476005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Modified</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME BlobStorage Container - Field Last Modified - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2959793436 - Field 4164853158 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lease Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME BlobStorage Container - Field Lease Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2959793436 - Field 262737771 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lease State</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME BlobStorage Container - Field Lease State - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 495279944 - Field 394351785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Container</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME BlobStorage Blob - Field Container - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 495279944 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME BlobStorage Blob - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 495279944 - Field 788537400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creation Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME BlobStorage Blob - Field Creation Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 495279944 - Field 984476005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Modified</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME BlobStorage Blob - Field Last Modified - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 495279944 - Field 4164853158 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lease Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME BlobStorage Blob - Field Lease Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 495279944 - Field 262737771 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lease State</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME BlobStorage Blob - Field Lease State - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 495279944 - Field 1303376715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Content Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME BlobStorage Blob - Field Content Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 495279944 - Field 3068913415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Content Length</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME BlobStorage Blob - Field Content Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 495279944 - Field 3186975085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blob Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MME BlobStorage Blob - Field Blob Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3914800003 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Storage Account Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME Storage Account Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 289571374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blob Storage Container List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME BlobStorage Container List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 289571374 - Action 3483211766 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get Containers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME BlobStorage Container List - Action GetContainers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 289571374 - Action 1594621544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME BlobStorage Container List - Action Picture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 289571374 - Action 4142070087 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upload File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME BlobStorage Container List - Action Upload File - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 457251514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blob Storage Blob List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME BlobStorage Blob List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 457251514 - Action 1912613678 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME BlobStorage Blob List - Action Download File - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 457251514 - Action 4142070087 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upload File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME BlobStorage Blob List - Action Upload File - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1532483551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blob Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME Blob Content Preview - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1532483551 - Control 318613646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME Blob Content Preview - Control Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1532483551 - Control 4266201246 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Preview</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME Blob Content Preview - Control Preview - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

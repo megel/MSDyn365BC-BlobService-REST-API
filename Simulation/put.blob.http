@@ -1,0 +1,12 @@
+### Change these variables:
+@account = <storage-account-name>
+@container = <container-name>
+@blobName = <blob-name>
+@sasToken = <sas-token>
+@length = 0
+###
+
+### Store a file as Blob in a Storage Account Container
+PUT https://{{account}}.blob.core.windows.net/{{container}}/{{blobName}}?{{sasToken}}
+x-ms-blob-type: BlockBlob
+Content-Length: {{length}}

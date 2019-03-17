@@ -1,0 +1,9 @@
+### Change these variables:
+@account = <storage-account-name>
+@container = <container-name>
+@blobName = <blob-name>
+@sasToken = <sas-token>
+###
+
+### GET a Blob form Storage Account Container
+GET https://{{account}}.blob.core.windows.net/{{container}}/{{blobName}}?{{sasToken}}
