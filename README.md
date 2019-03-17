@@ -12,7 +12,7 @@ In each scenario, authentication is in my opinion the hardest challenge. Azure B
 
 One way, is to use [Authorize with Shared Key](https://docs.microsoft.com/en-us/rest/api/storageservices/authorize-with-shared-key). For this, enter your [Azure Portal](https://portal.azure.com) and generate a SaS-Token for your Storage Account:
 
-![Generate SaS Token](./docs/get-sas-token.png)
+![Generate SaS Token](./Docs/get-sas-token.png)
 
 **SaS-Token Example:**
 
@@ -200,28 +200,28 @@ procedure GetBlobUrl(containerName: Text; blobName: Text): Text;
 
 The example store information about the storage account in table `MME BlobStorage Account`. To setup you can use page `Setup Storage Account`:
 
-![Setup Storage Account](./docs/bc-setup-storage-account.png)
+![Setup Storage Account](./Docs/bc-setup-storage-account.png)
 
 ### Storage Account - Containers
 
 Your Storage Account in your Azure Portal provides a list of the containers, allow to create new containers or delete existing containers:
 
-![Containers in Azure](./docs/azure-containers.png)
+![Containers in Azure](./Docs/azure-containers.png)
 
 For Dynamics 365 Business Central I added the page "Blob Storage Container List" ([`MME BlobStorage Container List`](./App/src/page/Pag50101.BlobStorageContainerList.al)).
 
-![Containers in MSDyn365BC](./docs/bc-containers.png)
+![Containers in MSDyn365BC](./Docs/bc-containers.png)
 
 ### Storage Account - Containers Blobs
 
 When you open a container from your Storage Account in your Azure Portal, it shows a list of the blobs. You can also upload, download or delete blobs in this page.
-![Container Blobs in Azure](./docs/azure-blobs.png)
+![Container Blobs in Azure](./Docs/azure-blobs.png)
 
 The blobs of a container are listed by page "Blob Storage Blob List" ([`MME BlobStorage Blob List`](./App/src/page/Pag50102.BlobStorageBlobList.al)). This page contains also a preview (JavaScript Control-Add-In) to show the Image or Text in a factbox.
 
-![Container Blobs in MSDyn365BC](./docs/bc-blobs-with-preview.png)
+![Container Blobs in MSDyn365BC](./Docs/bc-blobs-with-preview.png)
 
 This page allows currently to upload and download blobs ***... feel free to contribute new content and functionality!!!***
 
-![Download Blob](./docs/bc-blobs-actions.png)
-![Download Blob](./docs/bc-blobs-download-saveas.png)
+![Download Blob](./Docs/bc-blobs-actions.png)
+![Download Blob](./Docs/bc-blobs-download-saveas.png)
